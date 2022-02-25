@@ -1,0 +1,13 @@
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\bin\Debug\Mp4ToMp3Converter.exe.config
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\bin\Debug\Mp4ToMp3Converter.exe
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\bin\Debug\Mp4ToMp3Converter.pdb
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\obj\Debug\Mp4ToMp3Converter.csproj.AssemblyReference.cache
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\obj\Debug\Mp4ToMp3Converter.Form1.resources
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\obj\Debug\Mp4ToMp3Converter.Properties.Resources.resources
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\obj\Debug\Mp4ToMp3Converter.csproj.GenerateResource.cache
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\obj\Debug\Mp4ToMp3Converter.csproj.CoreCompileInputs.cache
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\obj\Debug\Mp4ToMp3Converter.exe
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\obj\Debug\Mp4ToMp3Converter.pdb
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\bin\Debug\NReco.VideoConverter.dll
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\bin\Debug\NReco.VideoConverter.xml
+C:\Users\Hringald\source\repos\Mp4ToMp3Converter\Mp4ToMp3Converter\obj\Debug\Mp4ToMp3Converter.csproj.CopyComplete
